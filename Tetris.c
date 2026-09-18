@@ -101,7 +101,7 @@ Piece spawnPiece(int id_piece) {
     return p;
 }
 
-int main() {
+int main(void) {
 
 
     return 0;
